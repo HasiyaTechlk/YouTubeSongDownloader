@@ -3,7 +3,7 @@
 from pyrogram import Client, filters
 from pyrogram.types import (
     InlineKeyboardButton,
-    InlineKeyboardMarkup
+    InlineKeyboardMarkup,
 )
 import youtube_dl
 from youtube_search import YoutubeSearch
