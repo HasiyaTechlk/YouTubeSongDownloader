@@ -14,10 +14,9 @@ from config import Config
 
 bot = Client(
     'YouTubeSongDownloader',
-    bot_token = Config.2067435229:AAHxLEe4GOztT95fsaLQJR_6T50a3jARhUE
+    bot_token = Config.2067435229:AAHxLEe4GOztT95fsaLQJR_6T50a3jARhUE,
     api_id = Config.7744764,
-    api_hash = Config.09fb2bd3ee46019e911149d4970bfc47
-)
+    api_hash = Config.09fb2bd3ee46019e911149d4970bfc47)
 
 ## Extra Fns -------------------------------
 
